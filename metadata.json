@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Command Center & Workflow Visualizer",
+  "description": "Cyberpunk Agentic Command Center and Animated Multi-Agent Workflow Visualizer featuring interactive cyber-mascots, voice and text prompt clarifier, and live pipeline execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
